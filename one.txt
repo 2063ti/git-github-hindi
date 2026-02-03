@@ -3,7 +3,7 @@ add another file.
 add third file.
 
 
-=======
+
 hey i am practicing pull command.
 
 now i am practicing merge and cherry pick command .
@@ -11,4 +11,4 @@ now i am practicing merge and cherry pick command .
 
 
 now i am making conflict to practice .
->>>>>>> master
+
