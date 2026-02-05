@@ -12,3 +12,4 @@ now i am practicing merge and cherry pick command .
 
 now i am making conflict to practice .
 
+hello how are you i am fine just testing and implementing github commands
